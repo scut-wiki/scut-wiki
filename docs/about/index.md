@@ -1,0 +1,139 @@
+---
+title: 关于
+category: about
+campus: [wushan, university-town, gzic]
+maintainers: [scut-wiki]
+last_verified: 2026-04-29
+source:
+  - title: 关于来源页面
+    url: https://www.gzic.online/about
+  - title: 华工手册历史仓库
+    url: https://github.com/MengyangGao/gzic.online
+  - title: 分享给华南理工大学新入学的学弟学妹
+    url: https://mengyanggao.github.io/blog/advice-for-new-scut-students/
+status: active
+---
+
+# 关于
+
+
+## 为什么做华工手册？
+
+华工一校三区每天有无数的信息产生，有很多非即时的信息（例如电话黄页、失物招领汇总），也有很多即时性信息（例如校园热点新闻、通选课指南），这些信息对学生、教职工、行政人员、后勤人员以及毕业校友等有帮助。
+
+互联网本应是一个开放的世界，而不是一个个的信息孤岛。或许大家见到过许多黑市群拼车群新生群，这些群功能重复却彼此孤立，导致我们往往需要打开好几个群聊后才能找到令人满意的信息。
+
+很多学生组织都在产出信息或者做信息流通的工作，例如学生会、各学院书院、学创、包打听、华工哩咕、小灯神、GZIC 小圈等。但是信息太多太分散了，刚入学的新生很难一次性把这些信息平台全部关注一遍，在校园里大家也不一定能准确找到自己想要的信息。而且很多不同组织在做相同的事情，白白浪费了时间和精力。
+
+这个问题不只存在于华工，在南科一路的[信息类网站专题：可用信息那么远，整合获取这么近](https://nanke.suste.ch/2020/10/10/niko-museum-ten-websites-information-websites/)中，有这么一段话：
+
+> 进入大学，不管是在学业上还是在生活中，每位同学都有快速获取信息的需求。这些信息的原始位置十分分散，查找起来需要花费大量时间，有时还需求助其他同学。**信息离我们「那么远」，为何不通过互联网将它变得「这么近」？**
+
+有没有一种方式能把上述所有组织和个人的努力聚到一起？
+
+受启发于[南科手册](https://sustech.online)，我们打算制作一本华南理工大学的校园信息百科全书，聚合大家生活、学习、去向等各方面信息，成一个平台，谓之**华工手册。**
+
+## 思考
+
+2022年初，部分同学深感于国际校区（最新建立的校区）信息稍显闭塞，尝试做一些信息聚合的努力，创建了一个微信公众号“华工国际生活圈”。做了几篇文章（国际校区兴趣社群、黄页、小程序操作指南，还有因为疫情严峻而加急制作的一篇返乡信息汇总），国际校区的学生也陆续建了一些生活相关的群聊。如今华工手册面世。面向全体华工人，也欢迎所有人一起参与建设，就像小圈，它不属于哪一个人，并且最终开放地面向大家。为的是促进校园信息流通、减少信息差。
+
+信息是人类社会发展最关键的资源之一，从石器时代结绳记事到如今互联网时代信息爆炸，每个人能获取的信息量不断增加，信息渠道也多了。对于人们来说有两个点值得考虑：
+- 信息量过大难以找到自己所需的信息
+- 各家都在打造流量入口，信息流通呈现孤岛化。
+两者合在一起也许会导致很多事情，例如个性化推荐和用户画像营造信息茧房、例如只知其一位置未知全貌带来的偏见误解、例如因为信息流通渠道的不畅通导致信息差和割韭菜……
+
+还有AI，随着大语言模型等人工智能技术发展，人们很可能迎来一个人人有AI助理的时代，你愿意让它/他/她去帮你整合信息吗？
+
+换言之，你愿意把影响自己判断选择，甚至影响你价值观的权利交由别人吗？
+
+华工手册只是一点点小努力，不只是华工的学生想要便利地获取信息，教职工、留学生、毕业校友、家属以及校园服务相关人员也想便利地获取信息。
+
+不只华南理工，南科大、清华大学等高校的同学也在做信息聚合、促进信息流通的事情。
+
+更大了说，各种团队、公司、集团、工作室，乃至全中国全天下的人或多或少都对信息获取有需求。
+
+华工手册把华南理工的信息尽量聚合在了一起，南科手册把南科大的信息尽量聚合到了一起，还有很多学校的很多学生也在做类似的事情；在社会生产生活各个方面，相信也有很多团体或个体也在做信息聚合、促进信息流通的努力和尝试。
+
+如何让大家不重复造轮子，有一个框架让不同的团体能直接补充内容而不用去研究网站搭建、宣传运营等事情，是值得思考的。
+
+对于个人来说，如何在这个时代掌握信息检索能力，减少信息差，是一件很有意义的事情。
+
+对于社会来说，如何在生产生活各项活动中促进信息流通，让资源交换利用更加高效，值得探索。
+
+## 和我们一起完善
+
+本项目开源在 <https://github.com/scut-wiki/scut-wiki>，欢迎大家一起来完善！
+
+参与方式如下：
+
+* Pull Request\
+  适合有使用 Git/GitHub 经验的同学
+  1. 在Github 页面 Fork 到自己仓库，进行投稿或更改。
+  2. 本地修改完后提交并推送更改到自己的库
+  3. 在 Github 中创建 Pull Request。
+* 邮件提交
+
+  发送投稿/修改意见或想添加的内容到 <scut.wiki@outlook.com> 邮箱
+* 代理提交
+  1. 进入华工手册 QQ 群：850188565
+  2. 提交规范编写的投稿/修改意见文件给管理员。
+  3. 由管理员代为上传。
+
+我们鼓励用 Markdown 语言的 .md 格式进行投稿，如果您不习惯于使用 Github 或者是不喜欢 `.md` 语言格式，也可以直接以你习惯的文档形式投稿（any, e.g. `.txt` / word `.docx` / `.pdf`）
+
+## 历史档案
+
+华工手册最早来自2022～2023年在广州国际校区的信息聚合实践，后来于2023年发展为公开网站与[开源仓库](https://github.com/MengyangGao/gzic.online)。本项目于 2026 年 4 月正式启用第二版域名——<a href="https://scut.wiki">SCUT Wiki</a>。新站将早期资料归档到 [历史档案](/legacy/)。
+
+## 友链
+
+以下组织或项目也都在做信息聚合、促进信息流通的努力。
+
+本校
+
+* [华南理工未来技术学院课程攻略](https://openfutech.github.io/SCUT-FT-Guide/)
+* [SCUTEEE 华南理工电力电子类专业知识库](https://scuteee.com)
+* [SCUT_EE_Training](https://github.com/Sampson-Lee/SCUT_EE_Training)
+* [华工生存手册](https://github.com/Kozmosa/survive-in-scut)
+
+外校
+* [南方科技大学飞跃手册](https://sustech-application.com/)
+* [清华大学飞跃手册](https://feiyue.online/)
+* [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)
+* [北洋维基](https://wiki.tjubot.cn/)
+
+## 联系
+
+- GitHub：https://github.com/scut-wiki/scut-wiki
+- 邮箱：scut.wiki@outlook.com
+
+## 许可
+
+- 代码：MIT License。
+- 内容：除非另有说明，采用 CC BY-SA 4.0。
+- 引用内容和外部链接的知识产权归原作者或原机构所有。
+
+## 致谢
+
+本项目受启发于以下网址或项目：
+
+- [南科手册](https://sustech.online/)
+- [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)
+- [CS 自学指南](https://csdiy.wiki/)
+- [机器人工程师培养计划 - YY硕 - 知乎](https://zhuanlan.zhihu.com/p/22266788)
+
+感谢华工手册历年来的所有内容提供者、开发维护者和参与者：
+
+- 新版开发维护:
+  [![GitHub contributors](https://img.shields.io/github/contributors/scut-wiki/scut-wiki.svg)](https://github.com/scut-wiki/scut/wiki)
+  [https://github.com/scut-wiki/scut-wiki/graphs/contributors](https://github.com/scut-wiki/scut-wiki/graphs/contributors)
+
+- 初版开发维护：
+  [![GitHub contributors](https://img.shields.io/github/contributors/ksDreamer/gzic.online.svg)](https://github.com/ksDreamer/gzic.online)
+  [https://github.com/MengyangGao/gzic.online/graphs/contributors](https://github.com/MengyangGao/gzic.online/graphs/contributors)
+
+感谢 GZIC 小圈、SCUT 学生创新俱乐部、华南鲤咕、鲤工包打听、小灯神 GENIE、信息阁。
+
+感谢许多帮助过校园信息流通的组织和个人。
+
+**你也可以成为这个网站的贡献者！**

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "南科手册",
+    "category": "inspiration",
+    "url": "https://sustech.online/",
+    "source": "https://www.gzic.online/about",
+    "last_verified": "2026-04-29",
+    "status": "active"
+  },
+  {
+    "name": "上海交通大学生存手册",
+    "category": "inspiration",
+    "url": "https://survivesjtu.gitbook.io/survivesjtumanual",
+    "source": "https://www.gzic.online/goal",
+    "last_verified": "2026-04-29",
+    "status": "active"
+  },
+  {
+    "name": "CS 自学指南",
+    "category": "inspiration",
+    "url": "https://csdiy.wiki/",
+    "source": "https://www.gzic.online/about",
+    "last_verified": "2026-04-29",
+    "status": "active"
+  },
+  {
+    "name": "SCUT-FT-Guide",
+    "category": "course-guide",
+    "url": "https://github.com/OpenFuTech/SCUT-FT-Guide",
+    "source": "https://github.com/OpenFuTech/SCUT-FT-Guide",
+    "last_verified": "2026-04-29",
+    "status": "active"
+  },
+  {
+    "name": "HITSZ 课程攻略共享计划",
+    "category": "course-guide",
+    "url": "https://hoa.moe/",
+    "source": "https://hoa.moe/",
+    "last_verified": "2026-04-29",
+    "status": "active"
+  },
+  {
+    "name": "浙江大学课程攻略共享计划",
+    "category": "course-guide",
+    "url": "https://qsctech.github.io/zju-icicles/",
+    "source": "https://github.com/OpenFuTech/SCUT-FT-Guide",
+    "last_verified": "2026-04-29",
+    "status": "active"
+  },
+  {
+    "name": "清华大学计算机系课程攻略",
+    "category": "course-guide",
+    "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+    "source": "https://github.com/OpenFuTech/SCUT-FT-Guide",
+    "last_verified": "2026-04-29",
+    "status": "active"
+  },
+  {
+    "name": "哈工大深圳计算机专业课程攻略",
+    "category": "course-guide",
+    "url": "https://github.com/HITSZ-OpenCS/HITSZ-OpenCS",
+    "source": "https://github.com/OpenFuTech/SCUT-FT-Guide",
+    "last_verified": "2026-04-29",
+    "status": "active"
+  }
+]

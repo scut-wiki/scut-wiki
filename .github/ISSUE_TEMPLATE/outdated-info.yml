@@ -1,0 +1,40 @@
+name: 过期信息反馈
+description: 反馈页面、链接、电话、时间、入口等过期信息
+title: '[过期信息] '
+labels: ['needs-review', 'content']
+body:
+  - type: input
+    id: page
+    attributes:
+      label: 页面或文件
+      description: 请填写页面 URL 或仓库文件路径。
+    validations:
+      required: true
+  - type: textarea
+    id: old
+    attributes:
+      label: 过期内容
+      description: 请说明当前页面中哪部分过期。
+    validations:
+      required: true
+  - type: textarea
+    id: new
+    attributes:
+      label: 建议更新
+      description: 请写明新的信息。
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 来源
+      description: 官方链接、公告、截图说明或其他可核验来源。
+    validations:
+      required: true
+  - type: input
+    id: scope
+    attributes:
+      label: 适用范围
+      description: 校区、学院、年级、身份或时间范围。
+    validations:
+      required: false

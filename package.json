@@ -1,0 +1,20 @@
+{
+  "name": "scut-wiki",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "docs:dev": "node scripts/generate-recent-updates.mjs && vitepress dev docs --host 127.0.0.1",
+    "build": "node scripts/generate-recent-updates.mjs && vitepress build docs",
+    "preview": "vitepress preview docs --host 127.0.0.1",
+    "check:frontmatter": "node scripts/check-frontmatter.mjs",
+    "check:links": "node scripts/check-links.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "check": "npm run check:frontmatter && npm run check:links && npm run format:check && npm run build"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "vitepress": "^1.6.4"
+  }
+}

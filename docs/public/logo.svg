@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">华工手册</title>
+  <rect width="64" height="64" rx="14" fill="#8f1d22"/>
+  <path d="M17 15h30a4 4 0 0 1 4 4v30a4 4 0 0 1-4 4H17a4 4 0 0 1-4-4V19a4 4 0 0 1 4-4Z" fill="#fff"/>
+  <path d="M21 23h22M21 32h22M21 41h14" stroke="#8f1d22" stroke-width="4" stroke-linecap="round"/>
+  <path d="M47 15v38" stroke="#f4b400" stroke-width="4"/>
+</svg>

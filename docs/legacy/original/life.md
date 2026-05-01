@@ -1,0 +1,181 @@
+---
+title: '旧站：生活篇'
+category: legacy
+campus: [wushan, university-town, gzic]
+maintainers: [legacy-migration]
+last_verified: 2024-09-08
+source:
+  - title: 华工手册旧站
+    url: https://www.gzic.online
+  - title: gzic.online 旧仓库
+    url: https://github.com/MengyangGao/gzic.online
+status: needs_review
+---
+
+::: warning 旧站迁移稿
+本页由旧版“华工手册 / gzic.online”迁移而来，保留历史内容和来源语境。页面中的电话、链接、群号、政策和时间安排可能已经过期，请以学校官方信息和最新贡献为准。
+:::
+
+# 生活篇
+
+广州地处中国南方，天气湿热，一年四季大部分时间都可以当成夏季。衣服、床上用品可以通过**快递、邮寄等**方式寄到学校，很多生活用品也可以到校再买。
+
+每个人的生活习惯包括卫生标准、作息习惯等不一定能完全吻合，如果在生活中遇到矛盾，建议大家多多沟通协商，互相尊重和理解。如果有难以解决的矛盾再另寻他解。
+
+关于生活经验分享，例如校内超市和饭堂选择，校外附近哪里好吃好玩，怎么出行方便等话题，我们面向所有人广泛征集，同时各学生组织（例如学生会、华南鲤咕、鲤工包打听、GZIC 小圈等）已经付出很多努力，便不重复造轮子。欢迎大家查看下列链接（部分推文内容随着时间推移可以会过时，可能有商业推广）：
+
+[迎新特辑·生活资讯篇 | 来get华园生活小百科](https://mp.weixin.qq.com/s/pJtMY3N1J24H15rxCmuI6g)
+
+[新生攻略 | 超实用！盘点企业微信&华工官网的各种功能](https://mp.weixin.qq.com/s/J4TYD_eI-ffJi8HvXqpsFg)
+
+### 五山校区
+
+[微协攻略 | 五山各区全方位攻略](https://mp.weixin.qq.com/s/V6-JSw3DMWPMsSN5x-Wzdg)
+
+[微协攻略 | 五山宿舍生存指南](https://mp.weixin.qq.com/s/Bx1Fh2nxNdLtndOYsIDapQ)
+
+[新生攻略 | 第二弹五山攻略篇来啦，还不一键收藏](https://mp.weixin.qq.com/s/_FScYoth47Ibh0ujFznG3w)
+
+### 大学城校区
+
+[微协攻略 | 南校吃喝玩乐篇](https://mp.weixin.qq.com/s/oUIhkvyibUaLRc-nrot-Kw)
+
+[微协攻略 | 南校住行攻略](https://mp.weixin.qq.com/s/Q718QNhpQBvdCAAldtdJgw)
+
+[微协攻略 | 大学城校区to do list之校内打卡篇](https://mp.weixin.qq.com/s/6VrZyEgEEKZNGTrYuDSdwg)
+
+[微协攻略 | 南校to do list 之校外打卡篇](https://mp.weixin.qq.com/s/DyFqa6ky_WJ3XBGm9Hw6nw)
+
+[新生攻略丨大学城生活篇 值得收藏](https://mp.weixin.qq.com/s/Yof7Uf97Yclq_CjJjIviEA)
+
+大学城校区2023年暑期有新的商铺入驻，例如C10 的麦当劳，B10北座一楼的休闲咖啡厅华园小弥（由经院学生共建共营的）等等。
+
+还有一些华工文创：例如”广横走“品牌（由2021级设计学院学生创建）。
+
+### 广州国际校区
+
+[微协攻略 | 国际校区攻略Ⅰ（学习生活篇）](https://mp.weixin.qq.com/s/g2eSDW9EuDHxiJlmqThcSg)
+
+[微协攻略 | 国际校区攻略Ⅱ（美食娱乐篇）](https://mp.weixin.qq.com/s/ppN9N7IWZZweHqrYlfNwmQ)
+
+[新生攻略 | 国际篇——把美食与爱装进口袋](https://mp.weixin.qq.com/s/B_SyQwZJjUMx9gdcOt2rXQ)
+
+[GZIC智慧服务小程序 | 百科全书式介绍来了！](https://mp.weixin.qq.com/s/tk89D9-pbjep8CDPnpkqaw)
+
+[国际校区黄页 | 常用地址和联系方式汇总](https://mp.weixin.qq.com/s/0AreDx58s2phe1fKoMw6TQ)
+
+国际校区每一年变化都很大，例如本项目发布的2023年9月还没有E5双创中心，现在的E5一楼已经成为商业街了，可以多关注社媒等发布渠道，例如这篇：[GZIC持续“上新”！新学期惊喜为你揭晓](https://mp.weixin.qq.com/s/5VPaGcnUpeHbwY7ZSvZv9w)
+
+新资讯不一定能及时收录，因此掌握长期稳定的信息渠道比收集具体一两篇文章要重要得多。
+
+## 作息表
+
+<figure><img src="/legacy/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## 校历
+
+每年校历可以从 [教务处/教学日历/学校校历](https://jw.scut.edu.cn/zhinan/cms/category/index.do?id=f25701314e913361014e91456f810011) 获得。
+
+## 网络
+
+三个校区校园里大部分地区都有 Wi-Fi 「scut」 覆盖，通过统一认证系统登录。免费。
+
+宿舍校园网服务是收费的。宿舍的 Wi-Fi 是「scut-student」，通过统一认证系统账号登录，每个用户最多可以同时登录2个无线设备和1台有线设备。
+
+iOS/MacOS 设备用户如果遇到没有弹出登录验证页面，可以尝试访问 [http://captive.apple.com](http://captive.apple.com) 以激活验证页面。
+
+### 如何开网
+
+国际校区的本科生从大一开始便可开启宿舍的校园网，五山、大学城仅部分学院大一上可开网，若大一上学期未挂科，则大一下可申请开网，其余大二才可开网。
+
+可以看看微信公众号“信息阁”2020年的文章：[你能开网了不？很方便的开网教程](https://mp.weixin.qq.com/s/dpeUpyRHJyRMN4IwjnCG0A)
+
+或者微信公众号“鲤工包打听“2023年的文章：[攻略 ｜ 华工校园网开网攻略](https://mp.weixin.qq.com/s/lqsgRctrRwpd29nDVxQofw)
+
+校园网和联通有合作，向校方登记后使用流量可以免 VPN 登录校园网。
+
+### 断网限制
+
+通常情况下本科生周日到周四晚上12点宿舍校园网会断网，研究生没有限制。
+
+网络供应的唯一标准是：若第二天上课，则24:00-6:00断网，放假时不断网。
+
+## 水电费充值
+
+[微协攻略 | 新生必备！大学生活常用卡的使用指南快收好！](https://mp.weixin.qq.com/s/tvX7ZWmqfr7_TnRzzMP-Qg)
+
+其中国际校区A4区域的学生有另一种方式——“GZIC智慧服务”小程序，小程序使用方法请看这篇文章：[GZIC智慧服务小程序 | 百科全书式介绍来了！](https://mp.weixin.qq.com/s/tk89D9-pbjep8CDPnpkqaw)
+
+## 失物招领
+
+[【包打听】失物招领攻略](https://mp.weixin.qq.com/s/3tgANUec7vRyuBs3t_PaZA)
+
+此攻略缺乏国际校区相关信息，已汇总于此。
+
+<table data-header-hidden><thead><tr><th width="526"></th><th></th></tr></thead><tbody><tr><td>GZIC 智慧服务小程序（官方）</td><td><img src="https://3735389280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FK9J09pA9uUysWxvULr8y%2Fimage.png?alt=media&#x26;token=f47b402b-895e-4e1b-836c-d4503564c19c" alt="" data-size="original"></td></tr><tr><td>一站式收集汇总（校区物业）</td><td><img src="https://3735389280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxZYd2tSI0SDXfM80AoKu%2Fuploads%2FLwY7E1UY3QzAJvdShGhB%2Fimage.png?alt=media&#x26;token=e6347e1e-d45c-4d55-a4ec-03341aeee1ac" alt=""></td></tr><tr><td>饭堂</td><td><p>D5：电梯旁门进门左转的柜子</p><p>B1：餐具领取处旁的柜子</p><p>F5：南边进门右转的柜子</p></td></tr><tr><td>失物招领微信群（校区物业）</td><td>（暂没想好什么方式进入微信大于200人的群）</td></tr></tbody></table>
+
+**一点思考**
+
+单单国际校区就有好几个失物招领平台，信息不流通成孤岛。 也许“GZIC智慧服务”小程序采取的发布式是比较好的一种模式，但是用的人可能还是太少。如果大家都知晓并愿意使用同一个失物招领平台，丢了东西的知道该去哪里找，捡到东西的知道该去哪里告知。一个统一的平台，用的人越多，能帮到的人是不是也越多？
+
+但是目前国际校区的失物招领平台未见能以一种合理且高效的方式统一，还有另外两个校区呢。关于失物招领模式的探索，任重道远。
+
+欢迎大家给校方提建议或沟通交流。也可以把想法投稿给我们，学生、老师、物业后勤，所有关心学校发展的大家聚在一起，集思广益，为了华工变得更好做出贡献。
+
+## 国际校区生活攻略
+
+D5e 一楼的一站式服务中心可以提供很多帮助，可以借到小型医药箱和各种工具，可以充电，短时间存放物品，有免费称重仪，抵押学生卡可借各类体育器材，特定假期有传统食品提供，如粽子汤圆等。可以借晾衣架……（感觉还有很多）
+
+**请记住24小时服务电话：81181000**
+
+### 用圈存机充值洗澡热水(TD)
+
+用圈存机充值热水（充值完校园卡后可以在 D5 饭堂的自主圈存机圈存，也可以在饭堂各档口或者小卖部的机子上刷一下即可把钱从过渡金额转到卡内）
+
+圈存机分布位置：D5d, D5e, D5g, D5f, A4c, A4d (均为一楼）。
+
+### 电费水费缴费（TD)
+
+企业微信中“校园一卡通”可充值电费水费和空调费，注意23:30-3:00不可充值，有同学会遇到半夜空调费用完但无法充值的情况，如有需要可以打电话到一站式申请临时开启。
+
+听说 A4 区域的学生缴费方式有别，是通过小程序“GZIC智慧服务”缴费。
+
+### 报修
+
+可以通过小程序“GZIC智慧服务”报修，详情请查看：[GZIC智慧服务小程序 | 百科全书式介绍来了！](https://mp.weixin.qq.com/s/tk89D9-pbjep8CDPnpkqaw)
+
+### 门禁
+
+校门门禁使用学生卡通过。如果没带学生卡可以把企业微信中的“校园一卡通”中的电子校园卡给门卫保安看。
+
+楼栋闸机：可以通过学生卡、人脸识别等方式通过闸机。
+
+房间门禁：可以通过学生卡、小程序蓝牙等方式开门，无法通过钥匙开门。
+
+另外提醒：超过12点小程序偶尔会因为各种原因无法使用，建议如果12点后回寝室最好带好校园卡或者让舍友留门。实在没办法也可以去楼下找阿姨帮忙开门。
+
+### 大功率电器
+
+有规定 但不算特别严。
+
+### 超市
+
+国际校区有两个超市：全家、京东，都在宿舍区。
+
+全家位于 D5c一楼（D5饭堂旁边），24小时开放，里面有个小房间用来吃东西，聚会和搞活动也可以。物价稍微贵点，可以充会员，有销售活动。全家的 Wi-Fi 信号较差。
+
+京东便利店位于 D5g 和 D5e 一楼连廊，商品价格相比全家要便宜点，每天有新鲜果切，水果捞。
+
+### 饭堂
+
+国际校区现有三个饭堂，分别位于 D5，B1 和 F5。全家和红堡书店（咖啡店）也可以就餐。
+
+### 运动设施
+
+国际校区有体育馆、健身房、两片户外篮球场、两个足球场、三个网球全场，一个排球场，一个乒乓球室等。
+
+乒乓球台、网球场等可能需要预约，预约方式是去 D5e 一楼的一站式服务中心填表。
+
+各设施的地址请跳转[黄页篇](https://www.gzic.online/contacts)
+
+**欢迎投稿补充！**

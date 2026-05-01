@@ -1,0 +1,53 @@
+[
+  {
+    "name": "SCUT学生创新俱乐部",
+    "category": "student-organization",
+    "campus": ["wushan", "university-town", "gzic"],
+    "source": "https://www.gzic.online/freshman",
+    "last_verified": "2024-09-08",
+    "status": "needs_review",
+    "notes": "旧站提及其新生手册《维特鲁威》。"
+  },
+  {
+    "name": "华南鲤咕",
+    "category": "campus-media",
+    "campus": ["wushan", "university-town", "gzic"],
+    "source": "https://www.gzic.online/contacts",
+    "last_verified": "2024-09-08",
+    "status": "needs_review",
+    "notes": "原华工微博协会，旧站引用其地图、社团名录和攻略。"
+  },
+  {
+    "name": "鲤工包打听",
+    "category": "campus-media",
+    "campus": ["wushan", "university-town", "gzic"],
+    "source": "https://www.gzic.online/contacts",
+    "last_verified": "2024-09-08",
+    "status": "needs_review"
+  },
+  {
+    "name": "小灯神GENIE",
+    "category": "campus-media",
+    "campus": ["wushan", "university-town", "gzic"],
+    "source": "https://www.gzic.online/contacts",
+    "last_verified": "2024-09-08",
+    "status": "needs_review"
+  },
+  {
+    "name": "GZIC小圈",
+    "category": "campus-media",
+    "campus": ["gzic"],
+    "source": "https://www.gzic.online/about",
+    "last_verified": "2024-09-08",
+    "status": "needs_review",
+    "notes": "华工手册前身信息聚合尝试之一。"
+  },
+  {
+    "name": "RobotIC机器人实验室",
+    "category": "lab",
+    "campus": ["gzic"],
+    "source": "https://www.gzic.online/organizations",
+    "last_verified": "2024-09-08",
+    "status": "needs_review"
+  }
+]

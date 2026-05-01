@@ -1,0 +1,26 @@
+name: 内容建议
+description: 建议新增或重构页面、数据、专题
+title: '[内容建议] '
+labels: ['enhancement', 'content']
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议内容
+      description: 你希望新增或修改什么？
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: 用户价值
+      description: 它能帮助哪些华工人？
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 来源和参考
+      description: 请列出可核验来源。
+    validations:
+      required: false

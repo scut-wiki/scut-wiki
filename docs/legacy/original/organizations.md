@@ -1,0 +1,105 @@
+---
+title: '旧站：学生组织篇'
+category: legacy
+campus: [wushan, university-town, gzic]
+maintainers: [legacy-migration]
+last_verified: 2024-09-08
+source:
+  - title: 华工手册旧站
+    url: https://www.gzic.online
+  - title: gzic.online 旧仓库
+    url: https://github.com/MengyangGao/gzic.online
+status: needs_review
+---
+
+::: warning 旧站迁移稿
+本页由旧版“华工手册 / gzic.online”迁移而来，保留历史内容和来源语境。页面中的电话、链接、群号、政策和时间安排可能已经过期，请以学校官方信息和最新贡献为准。
+:::
+
+# 学生组织篇
+
+华南理工大学的学生组织/社团不少，可以关注学生会、华南鲤咕（原微博协会）等组织汇总的信息。
+
+<figure><img src="/legacy/assets/华工微博协会社团名录.png" alt="" width="75%"><figcaption><p>在“华南鲤咕”公众号后台回复“社团”获取</p></figcaption></figure>
+
+每年十月初会在大学城和国际校区举办百团大战进行社团招新。
+
+## 广州国际校区
+
+### 微电子协会
+
+微电子协会是国际校区首个依托微电子学院建立的学生组织，成立的初心是成为微电子学院的学生交流、学习、共同进步的平台。协会肩负学生课外实践创新、竞赛组织培训以及专题讲座等相关活动，致力为学院同学的学术活动铺路架桥。
+
+<figure><img src="/legacy/assets/微电子协会.png" alt="" width="50%"><figcaption></figcaption></figure>
+
+更多关于微电子协会的内容：[微协·招新资讯|微电子协会2022招新辣！](https://mp.weixin.qq.com/s?__biz=MzkwNjMxMjYxMA==&mid=2247484175&idx=1&sn=0513e010bff4d82ac7150c169462cf31)
+
+### 人工智能协会
+
+人工智能协会（AIA）是国际校区依托于未来技术学院建立的学生组织，下设新媒体运营部、学术资源部、合作拓展部三个部门。运作宗旨是将为学生提供交流、学习的平台，培养和提高学生的科学素质、创新精神和实践能力。
+
+<figure><img src="/legacy/assets/人工智能协会.png" alt="" width="50%"><figcaption></figcaption></figure>
+
+协会现已建设以三维计算机视觉为研究方向的奥比中光追光空间站和以脑机接口为研究方向的BCI科研小组，曾举办数模分享会活动，近期拟举办校内OJ比赛，未来将举办如人工智能竞赛、kaggle天池等丰富多彩的沙龙、讲座、参观实践、竞赛活动，建设更多竞赛、科研、兴趣小组。协会将为成员举办、参与的活动提供场地支持与丰厚的活动经费！
+
+### RobotIC 机器人实验室
+
+RobotIC 机器人实验室是面向华南理工大学全体本科生的工科实验室，成立于2022年12月，实验室成员参加 ROBOCON 全国大学生机器人大赛等工科竞赛，进行机器人相关技术知识的科普教育，承接学生参观和英才计划，转化实验室研发成果并以论文或专利的形式发表。2023年首次参加 Robocon 全国大学生机器人大赛便取得了全国三等奖及优秀队长奖。
+
+<figure><img src="/legacy/assets/RobotIC机器人实验室.png" alt="" width="50%"><figcaption></figcaption></figure>
+
+RobotIC 机器人实验室长期欢迎：
+
+竞赛组：对机械设计与制造、嵌入式硬件(电源、高速数字信号)、嵌入式软件(电机控制)、对 ROS 以及机器人相关算法等领域感兴趣或擅长的同学;
+
+宣运组：对摄影、视频制作与剪辑、美工美术、社媒运营、财务招商、后勤等方面感兴趣或擅长的同学;
+
+写作组：对论文和专利写作感兴趣的同学;
+
+教育组：对进行机器人普及教育、成为机器人科普活动讲师感兴趣的同学。
+
+<figure><img src="/legacy/assets/RobotIC机器人实验室2.png" alt="" width="50%"><figcaption></figcaption></figure>
+
+### SK 街舞社
+
+S.K.Crew（以下简称SK）街舞协会是一个跨三个校区、拥有上千名会员的大规模协会，主要包括hiphop、popping、locking、breaking、jazz五大舞种（urban、waacking等也有所涵盖）。其前身为五山校区的kook街舞协会和大学城校区的sixsteps街舞协会。
+
+<figure><img src="/legacy/assets/SK街舞社.png" alt="" width="50%"><figcaption></figcaption></figure>
+
+SK于2019年国际校区的第一批本科生入住时正式进入国际校区并设立分部，日常相对独立管理，临近协会大型活动（如舞展、快闪等）时三校区联动。
+
+会内成员（包括舞队正式队员和部门预备队员）可在协会借用时间共用舞室（d5f207），也可享受每周的常规队训（目前每周日晚20:00在舞室有urban队训），更是有机会在协会一年一度的舞展中与其他会员一起大放异彩。
+
+<figure><img src="/legacy/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+目前各协会、社团暂未招新，舞室每天的协会借用时间和协会每周的队训对所有人开放，欢迎有共同爱好的大家来一起交流！零基础的小伙伴们也可以通过参加不同舞种的队训来发掘适合自己的方向。
+
+最后，我们欢迎一切热爱跳舞的同学加入协会！
+
+### **国际星喵守护者联盟**
+
+华工国际校区内的一个学生自发组织，聚在一起是为了改善校区内流浪猫的生活条件，同时促进人与猫的和谐共处。平时星喵联盟的成员会做以下事情：
+
+- 为猫咪募捐并安排绝育、注射狂犬疫苗、体内外驱虫
+- 制作及投放猫屋
+- 对猫咪定时定点投喂猫粮
+- 运营猫咪图鉴小程序
+
+<figure><img src="/legacy/assets/国际星喵守护者联盟.png" alt="" width="50%"><figcaption></figcaption></figure>
+
+## 大学城校区
+
+### 量化投资协会
+
+量化投资协会是一个base在大学城的学生组织，目前主要进行p-quant的研究和学习。目前协会内有2人成为[WorldQuant](https://www.worldquant.com/)的研究顾问, 协会成员在WorldQuant IQC、WorldQuant ACE、美赛、APMCM、互联网+、全国研究生金融科技大赛、全国大学生基金知识竞赛、阿里云杯程序设计大赛等比赛中屡获佳绩，并开源有[scutquant](https://github.com/HaoningChen/scutquant)作为协会学习和对外交流的平台
+
+部分荣誉展示  
+![gold](https://github.com/HaoningChen/gzic.online/assets/101194077/f1363184-f92f-4f57-aeac-a2458bb7573b)
+
+协会内部分为三个部门：技术部，宣传部和运营部, 欢迎扫码关注协会公众号以了解更多信息！
+
+![qrcode](https://github.com/HaoningChen/gzic.online/assets/101194077/35f1c068-418e-4f14-bf89-482f962711d0)
+
+## 欢迎投稿
+
+欢迎三个校区各个学生组织、社团投稿，投稿方式详见[关于](https://www.gzic.online/about)

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "华南理工大学",
+    "category": "official",
+    "campus": ["wushan", "university-town", "gzic"],
+    "url": "https://www.scut.edu.cn/new/",
+    "source": "https://www.gzic.online/contacts",
+    "last_verified": "2024-09-08",
+    "status": "needs_review"
+  },
+  {
+    "name": "统一门户",
+    "category": "official",
+    "campus": ["wushan", "university-town", "gzic"],
+    "url": "https://my.scut.edu.cn/up/",
+    "source": "https://www.gzic.online/study",
+    "last_verified": "2024-09-08",
+    "status": "needs_review"
+  },
+  {
+    "name": "教学管理信息平台",
+    "category": "academic",
+    "campus": ["wushan", "university-town", "gzic"],
+    "url": "http://jw2018.jw.scut.edu.cn/",
+    "source": "https://www.gzic.online/study",
+    "last_verified": "2024-09-08",
+    "status": "needs_review"
+  },
+  {
+    "name": "教务处",
+    "category": "academic",
+    "campus": ["wushan", "university-town", "gzic"],
+    "url": "https://jw.scut.edu.cn/",
+    "source": "https://www.gzic.online/study",
+    "last_verified": "2024-09-08",
+    "status": "needs_review"
+  },
+  {
+    "name": "研究生院",
+    "category": "academic",
+    "campus": ["wushan", "university-town", "gzic"],
+    "url": "https://www2.scut.edu.cn/graduate/",
+    "source": "https://www.gzic.online/contacts",
+    "last_verified": "2024-09-08",
+    "status": "needs_review"
+  },
+  {
+    "name": "广州国际校区",
+    "category": "campus",
+    "campus": ["gzic"],
+    "url": "https://www2.scut.edu.cn/gzic/",
+    "source": "https://www.gzic.online/contacts",
+    "last_verified": "2024-09-08",
+    "status": "needs_review"
+  },
+  {
+    "name": "图书馆",
+    "category": "service",
+    "campus": ["wushan", "university-town", "gzic"],
+    "url": "http://www.lib.scut.edu.cn/",
+    "source": "https://www.gzic.online/contacts",
+    "last_verified": "2024-09-08",
+    "status": "needs_review"
+  }
+]

@@ -1,0 +1,7 @@
+node_modules/
+.npm-cache/
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+docs/.vitepress/theme/recent-updates.generated.ts
+.DS_Store
+npm-debug.log*
