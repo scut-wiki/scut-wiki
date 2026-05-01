@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: '华工手册',
   description:
-    '开源的华南理工大学信息聚合项目。An open-source project aggregates the information in South China University of Technology (SCUT).',
+    '开源的华南理工大学信息聚合项目。An open-source information hub for South China University of Technology (SCUT).',
   base: '/',
   lang: 'zh-CN',
   cleanUrls: true,
@@ -23,7 +23,7 @@ export default defineConfig({
       {
         property: 'og:description',
         content:
-          '开源的华南理工大学信息聚合项目。An open-source project aggregates the information in South China University of Technology (SCUT).',
+          '开源的华南理工大学信息聚合项目。An open-source information hub for South China University of Technology (SCUT).',
       },
     ],
   ],

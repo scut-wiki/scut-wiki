@@ -2,7 +2,6 @@
 
 华工手册是一个开放、开源、互助、共享的华南理工大学信息聚合项目，希望为华工学生、教职工、留学生、毕业校友、家属以及校园服务相关人员提供信息聚合、经验整理和入口指引。本项目由华工学生于 2023 年 9 月发布，并于 2026 年 4 月正式启用第二版域名——<a href="https://scut.wiki">SCUT Wiki</a>。欢迎所有华工人（包括留学生和毕业校友）参与建设。
 
-
 ## 本地开发
 
 需要 Node.js。当前项目使用 npm。
@@ -78,7 +77,7 @@ status: active
 
 ## For International Students
 
-scut.wiki (华工手册 in Chinese) is an open-soucre project aggregates the information in South China University of Technology(SCUT).
+scut.wiki (华工手册 in Chinese) is an open-source information hub for South China University of Technology (SCUT)
 
 This project is initiated by students in SCUT, and welcomes all SCUTers to participate in the construction.
 

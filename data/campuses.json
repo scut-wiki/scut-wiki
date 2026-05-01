@@ -4,29 +4,29 @@
     "campus": "wushan",
     "address": "广州市天河区五山路381号",
     "postal_code": "510641",
-    "source": "https://www.gzic.online/contacts",
-    "last_verified": "2024-09-08",
-    "status": "needs_review",
-    "notes": "旧站黄页迁移，待按学校官方来源复核。"
+    "source": "https://www.scut.edu.cn/new/2026/0427/c743a59830/page.htm",
+    "last_verified": "2026-05-01",
+    "status": "active",
+    "notes": "学校官网公开地址。"
   },
   {
     "name": "大学城校区",
     "campus": "university-town",
     "address": "广州市番禺区广州大学城",
     "postal_code": "510006",
-    "source": "https://www.gzic.online/contacts",
-    "last_verified": "2024-09-08",
-    "status": "needs_review",
-    "notes": "旧站黄页迁移，待按学校官方来源复核。"
+    "source": "https://www.scut.edu.cn/new/2026/0427/c743a59830/page.htm",
+    "last_verified": "2026-05-01",
+    "status": "active",
+    "notes": "学校官网公开地址。"
   },
   {
     "name": "广州国际校区",
     "campus": "gzic",
     "address": "广东省广州市番禺区兴业大道东777号",
     "postal_code": "511442",
-    "source": "https://www.gzic.online/contacts",
-    "last_verified": "2024-09-08",
-    "status": "needs_review",
-    "notes": "旧站黄页迁移，旧站第一版覆盖较多。"
+    "source": "https://www.scut.edu.cn/new/2026/0427/c743a59830/page.htm",
+    "last_verified": "2026-05-01",
+    "status": "active",
+    "notes": "学校官网与广州国际校区官网当前公开地址均写作兴业大道东777号。"
   }
 ]

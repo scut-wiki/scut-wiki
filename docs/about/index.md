@@ -16,7 +16,6 @@ status: active
 
 # 关于
 
-
 ## 为什么做华工手册？
 
 华工一校三区每天有无数的信息产生，有很多非即时的信息（例如电话黄页、失物招领汇总），也有很多即时性信息（例如校园热点新闻、通选课指南），这些信息对学生、教职工、行政人员、后勤人员以及毕业校友等有帮助。
@@ -38,8 +37,10 @@ status: active
 2022年初，部分同学深感于国际校区（最新建立的校区）信息稍显闭塞，尝试做一些信息聚合的努力，创建了一个微信公众号“华工国际生活圈”。做了几篇文章（国际校区兴趣社群、黄页、小程序操作指南，还有因为疫情严峻而加急制作的一篇返乡信息汇总），国际校区的学生也陆续建了一些生活相关的群聊。如今华工手册面世。面向全体华工人，也欢迎所有人一起参与建设，就像小圈，它不属于哪一个人，并且最终开放地面向大家。为的是促进校园信息流通、减少信息差。
 
 信息是人类社会发展最关键的资源之一，从石器时代结绳记事到如今互联网时代信息爆炸，每个人能获取的信息量不断增加，信息渠道也多了。对于人们来说有两个点值得考虑：
+
 - 信息量过大难以找到自己所需的信息
 - 各家都在打造流量入口，信息流通呈现孤岛化。
+
 两者合在一起也许会导致很多事情，例如个性化推荐和用户画像营造信息茧房、例如只知其一位置未知全貌带来的偏见误解、例如因为信息流通渠道的不畅通导致信息差和割韭菜……
 
 还有AI，随着大语言模型等人工智能技术发展，人们很可能迎来一个人人有AI助理的时代，你愿意让它/他/她去帮你整合信息吗？
@@ -66,15 +67,16 @@ status: active
 
 参与方式如下：
 
-* Pull Request\
+- Pull Request\
   适合有使用 Git/GitHub 经验的同学
   1. 在Github 页面 Fork 到自己仓库，进行投稿或更改。
   2. 本地修改完后提交并推送更改到自己的库
   3. 在 Github 中创建 Pull Request。
-* 邮件提交
+- 邮件提交
 
   发送投稿/修改意见或想添加的内容到 <scut.wiki@outlook.com> 邮箱
-* 代理提交
+
+- 代理提交
   1. 进入华工手册 QQ 群：850188565
   2. 提交规范编写的投稿/修改意见文件给管理员。
   3. 由管理员代为上传。
@@ -91,16 +93,17 @@ status: active
 
 本校
 
-* [华南理工未来技术学院课程攻略](https://openfutech.github.io/SCUT-FT-Guide/)
-* [SCUTEEE 华南理工电力电子类专业知识库](https://scuteee.com)
-* [SCUT_EE_Training](https://github.com/Sampson-Lee/SCUT_EE_Training)
-* [华工生存手册](https://github.com/Kozmosa/survive-in-scut)
+- [华南理工未来技术学院课程攻略](https://openfutech.github.io/SCUT-FT-Guide/)
+- [SCUTEEE 华南理工电力电子类专业知识库](https://scuteee.com)
+- [SCUT_EE_Training](https://github.com/Sampson-Lee/SCUT_EE_Training)
+- [华工生存手册](https://github.com/Kozmosa/survive-in-scut)
 
 外校
-* [南方科技大学飞跃手册](https://sustech-application.com/)
-* [清华大学飞跃手册](https://feiyue.online/)
-* [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)
-* [北洋维基](https://wiki.tjubot.cn/)
+
+- [南方科技大学飞跃手册](https://sustech-application.com/)
+- [清华大学飞跃手册](https://feiyue.online/)
+- [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)
+- [北洋维基](https://wiki.tjubot.cn/)
 
 ## 联系
 
